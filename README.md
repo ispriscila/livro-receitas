@@ -3,3 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Strogonoff de carne (Paola Carosella)
+- Bife à milanesa (Mohamad Hindi)
